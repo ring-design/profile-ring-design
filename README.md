@@ -1,1 +1,0 @@
-# profile-ring-design
